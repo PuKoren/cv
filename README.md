@@ -13,3 +13,6 @@ pacman -S --noconfirm texlive-most
 ```sh
 xelatex cv.tex
 ```
+
+## English version
+[See here](https://github.com/PuKoren/cv/tree/english)
